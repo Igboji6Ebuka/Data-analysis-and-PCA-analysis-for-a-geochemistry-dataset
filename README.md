@@ -1,4 +1,2 @@
 # Data-analysis-and-PCA-analysis-for-a-geochemistry-dataset.
-Title: Geocchemistry Dataset Analysis with PCA
-
 In this analysis, I explored a geocchemistry dataset using Principal Component Analysis (PCA) to uncover underlying patterns and reduce dimensionality. Leveraging the scikit-learn library, I standardized and transformed the data, revealing key insights into the dataset's structure. The PCA results, including explained variance ratios, cumulative variance, and eigenvalues, are presented in a clear and concise manner. Visualizations, such as biplots and scree plots, enhance interpretability. The accompanying Jupyter Notebook provides a step-by-step walkthrough of the analysis, offering a valuable resource for researchers and enthusiasts interested in understanding and utilizing PCA for geocchemistry datasets. View the complete analysis in the Jupyter Notebook for a comprehensive exploration of the dataset's geochemical dynamics.
